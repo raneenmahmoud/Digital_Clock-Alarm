@@ -10,6 +10,7 @@ select{
     height: 150px;
     background-color: transparent;
     width: 80%;
+    padding: 2%;
 }
 .setbutton{
     display: flex;
