@@ -1,6 +1,6 @@
 # Digital_Clock-Alarm
 ## Deployment: 
-[Digital-Clock](https://raneenmahmoud.github.io/Digital_Clock-Alarm/Digital_Clock.html)
+[Digital-Clock&Alarm](https://raneenmahmoud.github.io/Digital_Clock-Alarm/Digital_Clock.html)
 ### Version of Digital_Clock:
 ![old version ](assests/images/Digital_Clock.png)
 ### Version of Alarm:
