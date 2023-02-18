@@ -99,6 +99,9 @@ var hour = d.getHours();
 var minute = d.getMinutes();
 var AMPM = hour>=12 ? 'PM' : 'AM';
 hour = hour%12;
+if(hour == 0){
+    hour = 12
+}
 if(Number(hour_input.value) == hour && Number(minute_input.value) == minute){
     alert("This is time")
     const audioalarm = new Audio("./assests/soundalarm.wav");
