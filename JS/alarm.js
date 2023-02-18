@@ -103,7 +103,7 @@ if(hour == 0){
     hour = 12
 }
 if(Number(hour_input.value) == hour && Number(minute_input.value) == minute){
-    alert("This is time")
+//     alert("This is time")
     const audioalarm = new Audio("./assests/soundalarm.wav");
     audioalarm.play();
     let button = document.createElement("button")
